@@ -1,4 +1,4 @@
-# APIs en python ontegrada con lambda, CloudFormation y otras tecnologías de AWS
+# APIs en python integrada con lambda, CloudFormation y otras tecnologías de AWS
 
 Durante esta semana de práctica técnica, crearás una solución integral que combine AWS Lambda, AWS Serverless Application Model (SAM), bases de datos gestionadas, AWS SQS para la gestión de mensajes, EventBridge para tareas programadas y AWS Systems Manager Parameter Store. Las funciones Lambda se implementarán utilizando el lenguaje de programación Python y se integrará la plataforma de servicios de correo electrónico en la nube Sendgrid para el envío de  correos electrónicos.
 
